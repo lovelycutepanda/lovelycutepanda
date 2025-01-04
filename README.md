@@ -1,5 +1,5 @@
 # Hi, I am Dicky Ku
-I am a year 4 mathematics major student minoring in computer science at CUHK.
+I am a CUHK graduate majoring in mathematics and minoring in computer science. Currently I am working in ASMPT as a software engineer.
 
 ## About me
 - I am interested in software development, for example games and web applications
